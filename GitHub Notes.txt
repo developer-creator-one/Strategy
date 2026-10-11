@@ -1,0 +1,27 @@
+This hasn't been contributed to in a while, but it looks fairly neat:
+https://github.com/thealoneprogrammer/Musical-World
+
+This one is actively developed, so maybe you could fork it for your
+own projects and maybe submit pull requests for anything you think
+could be improved:
+https://github.com/projek-xyz/php-lib-template
+
+----
+
+GitHub clones of other people's projects are here:
+/home/computeruser/Data-Large/GitHub-Projects/
+
+----
+
+GitHub Project Familiarization Method:
+I can write some small programs myself, using all of the technologies that
+someone else's code uses, so that I can familiarize with the technologies utilized
+in their project. I can put these programs onto GitHub, and post a discussion
+forum message on the original project GitHub page so that other people can
+use my small projects to familiarize with their code methods.
+
+Repositories so far:
+/home/computeruser/Data/Shops, Organizations, People/GitHub/Musical-World-Learning/
+
+----
+
