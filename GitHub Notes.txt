@@ -28,10 +28,10 @@ use my small projects to familiarize with their code methods.
 Repositories so far:
 
 https://github.com/developer-creator-one/Musical-World-Learning
-/home/computeruser/Data/Shops, Organizations, People/GitHub/Musical-World-Learning/
+/home/computeruser/Data/Shops,Organizations,People/GitHub/Musical-World-Learning/
 
 https://github.com/developer-creator-one/Strategy
-/home/computeruser/Data/Shops, Organizations, People/GitHub/Strategy/
+/home/computeruser/Data/Shops,Organizations,People/GitHub/Strategy/
 
 ----
 
