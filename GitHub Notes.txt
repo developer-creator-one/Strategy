@@ -1,15 +1,18 @@
-This hasn't been contributed to in a while, but it looks fairly neat:
-https://github.com/thealoneprogrammer/Musical-World
+---
 
-This one is actively developed, so maybe you could fork it for your
-own projects and maybe submit pull requests for anything you think
-could be improved:
+I might be interested in doing something with this:
+
 https://github.com/projek-xyz/php-lib-template
 
 ----
 
 GitHub clones of other people's projects are here:
 /home/computeruser/Data-Large/GitHub-Projects/
+
+Clones that have been downloaded:
+
+https://github.com/thealoneprogrammer/Musical-World
+/home/computeruser/Data-Large/GitHub-Projects/Musical-World
 
 ----
 
@@ -20,8 +23,15 @@ in their project. I can put these programs onto GitHub, and post a discussion
 forum message on the original project GitHub page so that other people can
 use my small projects to familiarize with their code methods.
 
+----
+
 Repositories so far:
+
+https://github.com/developer-creator-one/Musical-World-Learning
 /home/computeruser/Data/Shops, Organizations, People/GitHub/Musical-World-Learning/
+
+https://github.com/developer-creator-one/Strategy
+/home/computeruser/Data/Shops, Organizations, People/GitHub/Strategy/
 
 ----
 
