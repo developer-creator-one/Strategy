@@ -36,7 +36,6 @@
 
 ### Internet Presence
 - [GitHub](https://github.com/developer-creator-one)
-- [LinkedIn](https://www.linkedin.com/in/jevanpipitone)
 
 ### NDIS
 - [APM Futures](https://apm.net.au/)
